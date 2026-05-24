@@ -1,21 +1,21 @@
-# Deribit Crypto Options Analyzer & GEX Tracker
-
-A sophisticated options flow analyzer specifically built for cryptocurrency derivatives on the Deribit exchange.
-
 <div align="center">
-  <img src="screenshot.png" width="90%" alt="Options Confluence Analytics">
+# Deribit Options Analyzer
+**Quantitative Research & Development Portfolio**
 </div>
-*(Real mathematical confluence surface plot)*
 
-## 📌 Technical Overview
-In crypto markets, dealer Gamma Exposure (GEX) heavily dictates short-term price mechanics. This standalone tool calculates the aggregate market-maker gamma positioning across Bitcoin and Ethereum options.
+## 1. Project Overview
+This repository contains the source code, data pipelines, and research findings for the `deribit_options_analyzer` project, developed as part of a proprietary quantitative research environment.
 
-### Core Analytics
-* **Net Gamma Profile**: Computes and charts Call vs. Put gamma levels to identify institutional support/resistance walls.
-* **Volatility Surface Mapping**: 3D visualization of the implied volatility surface across tenor and moneyness.
-* **Open Interest Heatmaps**: Tracks where maximum pain liquidity is concentrated.
+**Category**: Dashboards And Apps
 
-## 🛠️ System Architecture
-* **Infrastructure**: Real-time REST/Websocket data fetching from Deribit.
-* **Math Modeling**: Black-Scholes implementations to derive Greek exposures from live bid-ask spreads.
-* **Stack**: Python, Web UI frameworks, high-performance data arrays.
+## 2. Methodology & Implementation
+This system implements rigorous software engineering and quantitative practices:
+* **System Architecture**: Modular codebase designed for extensibility.
+* **Data Processing**: Robust data ingestion and transformation pipelines.
+* **Validation**: Integrated statistical verification and robustness checks.
+
+## 3. Results & Visualizations
+![Screenshot](screenshot.png)
+
+---
+*Confidential proprietary research. All rights reserved.*
